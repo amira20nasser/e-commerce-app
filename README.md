@@ -5,9 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-<iframe src="https://giphy.com/embed/video-id" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+[Click here to watch the video]([path/to/your/video.mp4](https://drive.google.com/file/d/1L4kc9eZ5gdTE3YsVEBgStt1BeKv27qTa/view?usp=sharing))
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
