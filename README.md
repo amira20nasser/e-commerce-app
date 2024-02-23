@@ -1,6 +1,7 @@
 # ecommerce
 
-A new Flutter project.
+This is Flutter Summer Training Project., And I got the best final project competition of training..
+
 
 ## Getting Started
 
